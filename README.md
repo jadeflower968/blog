@@ -2,4 +2,4 @@
 
 ## License
 
-This project is licensed under the [GNU GENERAL PUBLIC LICENSE Version 3](LICENSE) license.
+This project is licensed under the [GNU General Public License v3.0](LICENSE).
